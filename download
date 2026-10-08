@@ -1,0 +1,4 @@
+*.pcap
+*.pcapng
+.DS_Store
+Thumbs.db
